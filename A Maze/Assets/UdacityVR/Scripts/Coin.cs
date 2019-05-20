@@ -8,6 +8,7 @@ public class Coin : MonoBehaviour {
 	// TODO: Create variables to reference the game objects we need access to
 	// Declare a GameObject named 'coinPoofPrefab' and assign the 'CoinPoof' prefab to the field in Unity
 	public GameObject coinPoof;
+	
 
 	// void Update () {
 	// 	// OPTIONAL-CHALLENGE: Animate the coin rotating
