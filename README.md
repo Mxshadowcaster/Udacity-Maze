@@ -15,5 +15,5 @@ Jaed Lambert's final Udacity Project!
 -
 
 
-### Target Deployment Patform
--Google Cardboard
+### Target Deployment Platform
+-Android
